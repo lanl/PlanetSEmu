@@ -62,7 +62,7 @@ The code in this repository is intended to support the analyses reported in the 
 Clone the repository with:
 
 ```bash
-git clone https://github.com/kydpotter/PlanetSEmu.git
+git clone https://github.com/lanl/PlanetSEmu.git
 cd PlanetSEmu
 ```
 
